@@ -60,7 +60,7 @@ python run app.py
 ```
 To run the Streamlit app, use the following command:
 ```bash
-streamlit run app.py
+streamlit run app2.py
 ```
 
 This will launch a local web server, and you can access the application in your browser by navigating to `http://localhost:8501`.
