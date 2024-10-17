@@ -6,8 +6,6 @@ This repository contains a machine learning project for predicting wine quality 
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
-- [Modeling](#modeling)
-- [Web Application](#web-application)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
