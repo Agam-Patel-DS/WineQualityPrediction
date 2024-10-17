@@ -56,6 +56,10 @@ To run this project locally, follow these steps:
 
 To run the Flask app, use the following command:
 ```bash
+python run app.py
+```
+To run the Streamlit app, use the following command:
+```bash
 streamlit run app.py
 ```
 
